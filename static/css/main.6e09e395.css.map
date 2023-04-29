@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.6e09e395.css","mappings":"AAAA,EACE,qDAA4D,CAC5D,QACF,CACA,KACE,4DACF","sources":["App.css"],"sourcesContent":["* {\r\n  font-family: \"Segoe UI\", Tahoma, Geneva, Verdana, sans-serif;\r\n  margin: 0;\r\n}\r\nbody {\r\n  background-image: url('https://wallpaper.dog/large/969031.jpg');\r\n}"],"names":[],"sourceRoot":""}
